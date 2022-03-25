@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcelService-license", "ParcelService-license\ParcelService-license.csproj", "{7472A14E-7311-4C63-AE73-752D8FEAC766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcelBlock", "ParcelBlock\ParcelBlock.csproj", "{DFD75610-ECE5-4A59-B7A6-D25AB75EEBEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7472A14E-7311-4C63-AE73-752D8FEAC766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7472A14E-7311-4C63-AE73-752D8FEAC766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7472A14E-7311-4C63-AE73-752D8FEAC766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7472A14E-7311-4C63-AE73-752D8FEAC766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD75610-ECE5-4A59-B7A6-D25AB75EEBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD75610-ECE5-4A59-B7A6-D25AB75EEBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD75610-ECE5-4A59-B7A6-D25AB75EEBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD75610-ECE5-4A59-B7A6-D25AB75EEBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE7B23E3-46DC-4C99-8B0F-2BA808CD402B}
+	EndGlobalSection
+EndGlobal
